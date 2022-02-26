@@ -19,10 +19,9 @@ This first project was built using html and CSS while complying with the style g
 
 ### Screenshot
 
-![](./screenshot.png)
+/screenshot.png
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://abialaisrael.netlify.app/
 
 ## My process
 
